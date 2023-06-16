@@ -10,7 +10,6 @@ import java.io.LineNumberReader;
 public class PrintJavaMain {
 
 	public static void main(String[] args) throws IOException {
-
 		try {
 			File directory = new File("C:\\JavaSkola\\1DV507\\src\\rs222nv_assignment3");
 			if (directory.exists() && directory.isDirectory()) 
